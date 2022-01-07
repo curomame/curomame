@@ -1,6 +1,6 @@
 <div align=center>
 <p>👋 Hi, I’m @ccamang 👋</p>
-<p>I started studying programming in 21.10.16</p>
+<p>I started coding in 21.10.16</p>
 
 <div>
 <img src="https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=HTML5&logoColor=#E34F26"/>
@@ -11,6 +11,4 @@
   
 <p>Thank You :)</p>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/curomame%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  
 </div>
