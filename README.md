@@ -1,7 +1,6 @@
 <div align=center>
 <p>👋 Hi, I’m @ccamang 👋</p>
-<p>I started studying programming in 21.10.01</p>
-<p>I'm not a major, but I try to learn what I don't know</p>
+<p>I started studying programming in 21.10.16</p>
 
 <div>
 <img src="https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=HTML5&logoColor=#E34F26"/>
