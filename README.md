@@ -8,6 +8,10 @@
 <img src="https://img.shields.io/badge/Javascript-white?style=for-the-badge&logo=JavaScript&logoColor=#F7DF1E"/>
 <img src="https://img.shields.io/badge/React-white?style=for-the-badge&logo=React&logoColor=#61DAFB"/>
 </div>
+
+<div>
+<img src="https://img.shields.io/badge/Node.js-white?style=for-the-badge&logo=React&logoColor=#339933"/>
+</div>
   
 <p>Thank You :)</p>
 
