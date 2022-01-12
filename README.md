@@ -10,7 +10,7 @@
 </div>
 
 <div>
-<img src="https://img.shields.io/badge/Node.js-white?style=for-the-badge&logo=React&logoColor=#339933"/>
+<img src="https://img.shields.io/badge/Node.js-white?style=for-the-badge&logo=Node.js&logoColor=#339933"/>
 </div>
   
 <p>Thank You :)</p>
