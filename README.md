@@ -1,6 +1,5 @@
 <div align=center>
 <p>👋 Hi, I’m @ccamang 👋</p>
-<p>I started coding in 21.10.16</p>
 
 <div>
 <img src="https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=HTML5&logoColor=#E34F26"/>
